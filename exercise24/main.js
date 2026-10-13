@@ -3,4 +3,5 @@ function calculateArea(width, height = width) {
     console.log(area);
     return area;
 } 
-calculateArea(2)
+calculateArea(2);
+
