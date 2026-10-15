@@ -20,3 +20,7 @@ function nonBlockingFunction() {
 }
 
 nonBlockingFunction();
+
+function name(){
+    return name("")
+}
